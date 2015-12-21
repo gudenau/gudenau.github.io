@@ -93,7 +93,7 @@
 			"file": "SplatoonColorizer.17.gud"
 		},{
 			"version": 18,
-			"stable": 0,
+			"stable": 1,
 			"change": "Changed:\n\tRemoved debug code",
 			"file": "SplatoonColorizer.18.gud"
 		}
