@@ -1,0 +1,81 @@
+{
+	"latest": 14,
+	"versions": [
+		{
+			"version": 0,
+			"stable": 0,
+			"change": "",
+			"file": "SplatoonColorizer.0.jar"
+		},{
+			"version": 1,
+			"stable": 0,
+			"change": "",
+			"file": "SplatoonColorizer.1.jar"
+		},{
+			"version": 2,
+			"stable": 0,
+			"change": "",
+			"file": "SplatoonColorizer.2.jar"
+		},{
+			"version": 3,
+			"stable": 0,
+			"change": "",
+			"file": "SplatoonColorizer.3.jar"
+		},{
+			"version": 4,
+			"stable": 0,
+			"change": "",
+			"file": "SplatoonColorizer.4.jar"
+		},{
+			"version": 5,
+			"stable": 0,
+			"change": "",
+			"file": "SplatoonColorizer.5.jar"
+		},{
+			"version": 6,
+			"stable": 0,
+			"change": "",
+			"file": "SplatoonColorizer.6.jar"
+		},{
+			"version": 7,
+			"stable": 0,
+			"change": "",
+			"file": "SplatoonColorizer.7.jar"
+		},{
+			"version": 8,
+			"stable": 0,
+			"change": "",
+			"file": "SplatoonColorizer.8.jar"
+		},{
+			"version": 9,
+			"stable": 0,
+			"change": "",
+			"file": "SplatoonColorizer.9.jar"
+		},{
+			"version": 10,
+			"stable": 0,
+			"change": "",
+			"file": "SplatoonColorizer.10.jar"
+		},{
+			"version": 11,
+			"stable": 0,
+			"change": "",
+			"file": "SplatoonColorizer.11.jar"
+		},{
+			"version": 12,
+			"stable": 0,
+			"change": "",
+			"file": "SplatoonColorizer.12.jar"
+		},{
+			"version": 13,
+			"stable": 0,
+			"change": "",
+			"file": "SplatoonColorizer.13.jar"
+		},{
+			"version": 14,
+			"stable": 0,
+			"change": "Added:\n\tVersion Checking\nChanged:\n\tNeeded wrapper application, sorry!",
+			"file": "SplatoonColorizer.14.gud"
+		}
+	]
+}
