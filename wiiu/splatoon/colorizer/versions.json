@@ -1,5 +1,5 @@
 {
-	"latest": 15,
+	"latest": 16,
 	"versions": [
 		{
 			"version": 0,
@@ -81,6 +81,11 @@
 			"stable": 0,
 			"change": "Changed:\n\tMade super verbose again",
 			"file": "SplatoonColorizer.15.gud"
+		},{
+			"version": 16,
+			"stable": 0,
+			"change": "Changed:\n\tFixed a stupid derp",
+			"file": "SplatoonColorizer.16.gud"
 		}
 	]
 }
