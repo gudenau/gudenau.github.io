@@ -76,6 +76,11 @@
 			"stable": 0,
 			"change": "Added:\n\tVersion Checking\nChanged:\n\tNeeded wrapper application, sorry!",
 			"file": "SplatoonColorizer.14.gud"
+		},{
+			"version": 15,
+			"stable": 0,
+			"change": "Changed:\n\tMade super verbose again",
+			"file": "SplatoonColorizer.15.gud"
 		}
 	]
 }
