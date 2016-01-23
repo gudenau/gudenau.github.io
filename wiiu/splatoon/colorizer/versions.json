@@ -1,5 +1,5 @@
 {
-	"latest": 21,
+	"latest": 22,
 	"versions": [
 		{
 			"version": 0,
@@ -111,6 +111,11 @@
 			"stable": 1,
 			"change": "Added:\n\tRandom value range sliders",
 			"file": "SplatoonColorizer.21.gud"
+		},{
+			"version": 22,
+			"stable": 1,
+			"change": "Changed:\n\tChanged some visuals\n\tUpdated version info",
+			"file": "SplatoonColorizer.22.gud"
 		}
 	]
 }
