@@ -1,0 +1,67 @@
+* {
+	-moz-box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+	box-sizing:border-box;
+	word-break:normal;
+	word-wrap:break-word;
+}
+
+div.IkaAnime-common {
+	width:64px;
+	height:64px;
+	position:absolute
+}
+div.IkaAnime_00 {
+	background:url(/images/background/squid.png) 0px 0px no-repeat
+}
+div.IkaAnime_01 {
+	background:url(/images/background/squid.png) -64px 0px no-repeat
+}
+div.IkaAnime_02 {
+	background:url(/images/background/squid.png) -128px 0px no-repeat
+}
+div.IkaAnime_03 {
+	background:url(/images/background/squid.png) -192px 0px no-repeat
+}
+div.IkaAnime_04 {
+	background:url(/images/background/squid.png) -256px 0px no-repeat
+}
+div.IkaAnime_05 {
+	background:url(/images/background/squid.png) -320px 0px no-repeat
+}
+div.IkaAnime_06 {
+	background:url(/images/background/squid.png) -384px 0px no-repeat
+}
+div.IkaAnime_07 {
+	background:url(/images/background/squid.png) -448px 0px no-repeat
+}
+div.IkaAnime_08 {
+	background:url(/images/background/squid.png) -512px 0px no-repeat
+}
+div.IkaAnime_09 {
+	background:url(/images/background/squid.png) -576px 0px no-repeat
+}
+div.IkaAnime_10 {
+	background:url(/images/background/squid.png) -640px 0px no-repeat
+}
+div.IkaAnime_11 {
+	background:url(/images/background/squid.png) -704px 0px no-repeat
+}
+div.IkaAnime_12 {
+	background:url(/images/background/squid.png) -768px 0px no-repeat
+}
+div.IkaAnime_13 {
+	background:url(/images/background/squid.png) -832px 0px no-repeat
+}
+div.IkaAnime_14 {
+	background:url(/images/background/squid.png) -896px 0px no-repeat
+}
+div.IkaAnime_15 {
+	background:url(/images/background/squid.png) -960px 0px no-repeat
+}
+div.IkaAnime_16 {
+	background:url(/images/background/squid.png) -1024px 0px no-repeat
+}
+div.IkaAnime_17 {
+	background:url(/images/background/squid.png) -1088px 0px no-repeat
+}
