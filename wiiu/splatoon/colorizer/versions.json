@@ -116,6 +116,11 @@
 			"stable": 1,
 			"change": "Changed:\n\tChanged some visuals\n\tUpdated version info",
 			"file": "SplatoonColorizer.22.gud"
+		},{
+			"version": 23,
+			"stable": 1,
+			"change": "Changed:\n\tUpdated to latest version of Splatoon",
+			"file": "SplatoonColorizer.23.gud"
 		}
 	]
 }
