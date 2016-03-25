@@ -121,6 +121,11 @@
 			"stable": 1,
 			"change": "Changed:\n\tUpdated to latest version of Splatoon",
 			"file": "SplatoonColorizer.23.gud"
+		},{
+			"version": 24,
+			"stable": 1,
+			"change": "Changed:\n\tRemoved range sliders, crashed for some people",
+			"file": "SplatoonColorizer.24.gud"
 		}
 	]
 }
