@@ -126,6 +126,11 @@
 			"stable": 1,
 			"change": "Changed:\n\tRemoved range sliders, crashed for some people",
 			"file": "SplatoonColorizer.24.gud"
+		},{
+			"version": 25,
+			"stable": 1,
+			"change": "Changed:\n\tSupports Splatoon version 2.7.0",
+			"file": "SplatoonColorizer.25.gud"
 		}
 	]
 }
