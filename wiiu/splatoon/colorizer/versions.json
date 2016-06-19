@@ -1,5 +1,5 @@
 {
-	"latest": 27,
+	"latest": 28,
 	"versions": [
 		{
 			"version": 0,
@@ -141,6 +141,11 @@
 			"stable": 1,
 			"change": "Changed:\n\tUpdated for 2.8.0",
 			"file": "SplatoonColorizer.27.gud"
+		},{
+			"version": 28,
+			"stable": 1,
+			"change": "Changed:\n\tUpdated for 2.8.0 for real",
+			"file": "SplatoonColorizer.28.gud"
 		}
 	]
 }
