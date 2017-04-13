@@ -1,0 +1,67 @@
+* {
+	-moz-box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+	box-sizing:border-box;
+	word-break:normal;
+	word-wrap:break-word;
+}
+
+div.SquidAnimation-common {
+	width:64px;
+	height:64px;
+	position:absolute;
+}
+div.SquidAnimation_00 {
+	background:url(/splatoon/img/squid.png) 0px 0px no-repeat
+}
+div.SquidAnimation_01 {
+	background:url(/splatoon/img/squid.png) -64px 0px no-repeat
+}
+div.SquidAnimation_02 {
+	background:url(/splatoon/img/squid.png) -128px 0px no-repeat
+}
+div.SquidAnimation_03 {
+	background:url(/splatoon/img/squid.png) -192px 0px no-repeat
+}
+div.SquidAnimation_04 {
+	background:url(/splatoon/img/squid.png) -256px 0px no-repeat
+}
+div.SquidAnimation_05 {
+	background:url(/splatoon/img/squid.png) -320px 0px no-repeat
+}
+div.SquidAnimation_06 {
+	background:url(/splatoon/img/squid.png) -384px 0px no-repeat
+}
+div.SquidAnimation_07 {
+	background:url(/splatoon/img/squid.png) -448px 0px no-repeat
+}
+div.SquidAnimation_08 {
+	background:url(/splatoon/img/squid.png) -512px 0px no-repeat
+}
+div.SquidAnimation_09 {
+	background:url(/splatoon/img/squid.png) -576px 0px no-repeat
+}
+div.SquidAnimation_10 {
+	background:url(/splatoon/img/squid.png) -640px 0px no-repeat
+}
+div.SquidAnimation_11 {
+	background:url(/splatoon/img/squid.png) -704px 0px no-repeat
+}
+div.SquidAnimation_12 {
+	background:url(/splatoon/img/squid.png) -768px 0px no-repeat
+}
+div.SquidAnimation_13 {
+	background:url(/splatoon/img/squid.png) -832px 0px no-repeat
+}
+div.SquidAnimation_14 {
+	background:url(/splatoon/img/squid.png) -896px 0px no-repeat
+}
+div.SquidAnimation_15 {
+	background:url(/splatoon/img/squid.png) -960px 0px no-repeat
+}
+div.SquidAnimation_16 {
+	background:url(/splatoon/img/squid.png) -1024px 0px no-repeat
+}
+div.SquidAnimation_17 {
+	background:url(/splatoon/img/squid.png) -1088px 0px no-repeat
+}

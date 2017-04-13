@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" version="2">
+	<filter id="splatoon_0_0" color-interpolation-filters="sRGB" x="0" y="0" height="100%" width="100%">
+		<feColorMatrix type="matrix"
+			values="
+			0.78125 0 0 0 0
+			0 0.23828125 0 0 0
+			0 0 0.47265625 0 0
+			0 0 0 1 0
+			"/>
+	</filter>
+	<filter id="splatoon_0_1" color-interpolation-filters="sRGB" x="0" y="0" height="100%" width="100%">
+		<feColorMatrix type="matrix"
+			values="
+			0.25 0 0 0 0
+			0 0.61328125 0 0 0
+			0 0 0.23046875 0 0
+			0 0 0 1 0
+			"/>
+	</filter>
+	<filter id="splatoon_0_2" color-interpolation-filters="sRGB" x="0" y="0" height="100%" width="100%">
+		<feColorMatrix type="matrix"
+			values="
+			0.16796875 0 0 0 0
+			0 0.859375 0 0 0
+			0 0 0.92578125 0 0
+			0 0 0 1 0
+			"/>
+	</filter>
+	
+	<filter id="splatoon_1_0" color-interpolation-filters="sRGB" x="0" y="0" height="100%" width="100%">
+		<feColorMatrix type="matrix"
+			values="
+			0 0 0 0 0
+			0 0 0 0 0
+			0 0 0 0 0
+			0 0 0 1 0
+			"/>
+	</filter>
+</svg>
