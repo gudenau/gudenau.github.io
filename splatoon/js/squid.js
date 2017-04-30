@@ -22,7 +22,12 @@ function squidSwim(selector) {
 	var update = function() {
 		if (a % 60 == 0) {
 			var img = $(document.createElement("div"));
-			img.attr("class", "SquidAnimation-common SquidAnimation_00");
+			var octo = Math.random() > 0.75;
+			if(octo){
+				img.attr("class", "SquidAnimation-common OctoAnimation_00");
+			}else{
+				img.attr("class", "SquidAnimation-common SquidAnimation_00");
+			}
 			var filter = "url(\"/splatoon/svg/colors.svg#splatoon_" + squidColorMode + "_" + Math.floor(Math.random() * 3) + "\")";
 			img.css("filter", filter);
 			img.css("-webkit-filter", filter);
@@ -38,7 +43,8 @@ function squidSwim(selector) {
 				reverse_rotate : false,
 				image_frame : 0,
 				total_frame : 0,
-				image : img
+				image : img,
+				octoling : octo
 			});
 		}
 		for(var pos = list.length - 1;pos >= 0;pos--) {
@@ -67,7 +73,11 @@ function squidSwim(selector) {
 			var meterPos = "translate(" + c.x + "px," + c.y + "px) rotate(" + c.rotate + "deg) scale(" + c.scale + ")";
 			c.image.css("transform", meterPos);
 			c.image.css("-webkit-transform", meterPos);
-			c.image.attr("class", "SquidAnimation-common SquidAnimation_" + ("0" + parseInt(c.image_frame)).slice(-2));
+			if(c.octoling){
+				c.image.attr("class", "SquidAnimation-common OctoAnimation_" + ("0" + parseInt(c.image_frame)).slice(-2));
+			}else{
+				c.image.attr("class", "SquidAnimation-common SquidAnimation_" + ("0" + parseInt(c.image_frame)).slice(-2));
+			}
 		}
 	};
 	var main = function() {
